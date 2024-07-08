@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Algorithms <a href="https://leetcode.com/u/meowchine1/"> LeetCode <a\>  
+Algorithms <a href="https://leetcode.com/u/meowchine1/"> LeetCode </a>  
 
 Languages: C, C++, Golang, Python, JS
 
