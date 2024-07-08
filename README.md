@@ -6,6 +6,7 @@ Languages: C, C++, Golang, Python, JS
 
 Frameworks: 
 C++: Qt
+C: HAL
 
 Data Manipulation & Visualisation: SQLite, Postgresql, MySQL
 
