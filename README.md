@@ -17,13 +17,17 @@ Algorithms <a href="https://leetcode.com/u/meowchine1/"> LeetCode </a>
   <img width="12" />
   </div>
 
-More specifically I have an experience with:
-C++: STL and QT, ESP-IDF
-C: embedded development with HAL  
-Python: aiogram3, SQLAlchemy
+<h3 align="left">More specifically I have an experience with:
+  <ul>
+  <li>C++: STL and QT, ESP-IDF</li>
+  <li>C: embeded development with HAL </li>
+  <li>Python: aiogram3, SQLAlchemy</li>
+</ul>
+</h3>
+ 
   
 <h2>Environment:</h2>
-<div>
+<div align="center">
   <a href="" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="" /></a>
   <img width="12" />
   <a href="" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="" /></a>
@@ -34,8 +38,7 @@ Python: aiogram3, SQLAlchemy
 
 
 🎀🫶🏻💌 My contacts: 
-  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="" /></a>
-  <img width="12" />: katevoronina128@gmail.com
+email: katevoronina128@gmail.com
 telegram: @plusha128
 
  
