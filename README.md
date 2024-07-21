@@ -1,25 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi ^-^ 👋 </h1>
+
+
+- 👨‍💻 I’m currently working on **quadrocopter auto management system**
+
+- 🌱 I’m currently learning **C/C++, Python languages, building Linux kernel and ROS**
 
 Algorithms <a href="https://leetcode.com/u/meowchine1/"> LeetCode </a>  
 
-Languages: C, C++, Golang, Python, JS
+<h2 align="left">Languages and Tools:</h2>
+<div align="center">
+  <a href="" target="blank"> <img src="https://skillicons.dev/icons?i=c" height="50" alt="" /></a>
+  <img width="12" />
+  <a href="" target="blank"> <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="" /></a>
+  <img width="12" />
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=python" height="50" alt="" /></a>
+  <img width="12" />
+  </div>
 
-Frameworks: 
-C++: Qt
-C: HAL
+More specifically I have an experience with:
+C++: STL and QT, ESP-IDF
+C: embedded development with HAL  
+Python: aiogram3, SQLAlchemy
+  
+<h2>Environment:</h2>
+<div>
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="" /></a>
+  <img width="12" />
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="" /></a>
+  <img width="12" />
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=ros" height="50" alt="" /></a>
+  <img width="12" />
+</div>  
 
-Data Manipulation & Visualisation: SQLite, Postgresql, MySQL
 
-Cloud: YandexCloud
+My contacts: 
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="" /></a>
+  <img width="12" />: katevoronina128@gmail.com
+telegram: @plusha128
 
-Environments, Testing, Other: git, Docker, Swagger, Postman
-
-OS: Debian, Ubuntu
-
-How to reach me: 
-email: katevoronina128@gmail.com
-tg: @plusha128
-
+ 
 <!--
 **Meowchine1/Meowchine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
