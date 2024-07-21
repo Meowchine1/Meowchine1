@@ -36,8 +36,8 @@ Algorithms <a href="https://leetcode.com/u/meowchine1/"> LeetCode </a>
   <img width="12" />
 </div>  
 
-
-🎀🫶🏻💌 My contacts: 
+<h2 align="left">🎀🫶🏻💌 My contacts:</h2>
+  
 email: katevoronina128@gmail.com
 telegram: @plusha128
 
