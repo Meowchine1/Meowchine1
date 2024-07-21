@@ -1,4 +1,4 @@
-<h1 align="center">Hi ^-^ 👋 </h1>
+<h1 align="center">Hi! ⋆˚🐾˖° </h1>
 
 
 - 👨‍💻 I’m currently working on **quadrocopter auto management system**
@@ -33,7 +33,7 @@ Python: aiogram3, SQLAlchemy
 </div>  
 
 
-My contacts: 
+🎀🫶🏻💌 My contacts: 
   <a href="" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="" /></a>
   <img width="12" />: katevoronina128@gmail.com
 telegram: @plusha128
