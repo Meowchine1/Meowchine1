@@ -19,9 +19,10 @@ Algorithms <a href="https://leetcode.com/u/meowchine1/"> LeetCode </a>
 
 <h3 align="left">More specifically I have an experience with:
   <ul>
-  <li>C++: STL and QT, ESP-IDF</li>
+  <li>C++: STL and QT </li>
   <li>C: embeded development with HAL </li>
   <li>Python: aiogram3, SQLAlchemy</li>
+  <li>MC: ESP(Espressif IDF), STM (HAL)</li>
 </ul>
 </h3>
  
