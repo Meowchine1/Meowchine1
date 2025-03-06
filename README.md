@@ -40,7 +40,7 @@ Algorithms <a href="https://leetcode.com/u/meowchine1/"> LeetCode </a>
 <h2 align="left">🎀🫶🏻💌 My contacts:</h2>
   
 email: katevoronina128@gmail.com
-telegram: @plusha128
+telegram: [@meowchine1](https://@meowchine1)
 
  
 <!--
