@@ -1,11 +1,12 @@
-**Embedded Systems & UAV Control Engineer**  
+***Embedded Systems & UAV Control Engineer***
 Specializing in real-time systems, control algorithms, and interdisciplinary projects.
+MSc in Mathematical Software and Information Systems Administration (Russia)
 
 ---
 
 ## 🧭 About Me
 
-I’m an engineer and developer with a strong background in:
+I’m an  engineer and developer with a strong background in:
 
 - **C/C++**, **Python**
 - **Embedded development** (ESP32, STM32)
