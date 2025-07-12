@@ -1,5 +1,7 @@
 ***Embedded Systems & UAV Control Engineer***
+
 Specializing in real-time systems, control algorithms, and interdisciplinary projects.
+
 MSc in Mathematical Software and Information Systems Administration (Russia)
 
 ---
